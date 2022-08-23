@@ -22,7 +22,7 @@ Learn everything you need to about the subject of this `eBook` project.
 Contents
 [x] Foreword by Swami Kriyananda
 [x] Acknowledgements
-[ ] Introduction
+[x] Introduction
 [ ] The Yugas 1 The Cycle of the Yugas
 [ ] The Kali Yugas
 [ ] Our Emerging Energy
