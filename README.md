@@ -1,7 +1,7 @@
 [![GitPitch](https://gitpitch.com/assets/badge.svg)](https://gitpitch.com/enogrob/ebook-project/master)
 
 ```
-Roberto Nogueira  
+Roberto Nogueira
 BSd EE, MSd CE
 Solution Integrator Experienced - Certified by Ericsson
 ```
@@ -23,7 +23,7 @@ Contents
 [x] Foreword by Swami Kriyananda
 [x] Acknowledgements
 [x] Introduction
-[ ] The Yugas 1 The Cycle of the Yugas
+[x] The Yugas 1 The Cycle of the Yugas
 [ ] The Kali Yugas
 [ ] Our Emerging Energy
 [ ] Ascending Dwapara Yuga The Energy
