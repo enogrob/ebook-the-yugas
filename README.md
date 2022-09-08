@@ -25,7 +25,7 @@ Contents
 [x] Introduction
 [x] The Yugas 1 The Cycle of the Yugas
 [x] The Kali Yugas
-[ ] Our Emerging Energy
+[x] Our Emerging Energy
 [ ] Ascending Dwapara Yuga The Energy
 [ ] Ascending Dwapara Yuga Currents
 [ ] Descending Satya Yuga Three Misconceptions
