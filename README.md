@@ -27,7 +27,7 @@ Contents
 [x] The Kali Yugas
 [x] Our Emerging Energy
 [x] Ascending Dwapara Yuga The Energy
-[ ] Ascending Dwapara Yuga Currents
+[x] Ascending Dwapara Yuga Currents
 [ ] Descending Satya Yuga Three Misconceptions
 [ ] Descending Satya Yuga Paradise
 [ ] Descending Satya Yuga Unexplained Anomalies
